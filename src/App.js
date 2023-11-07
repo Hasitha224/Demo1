@@ -2,6 +2,7 @@ import './App.css';
 
 function App() {
   return (
+    // This is a comment 
     <div>
     <h1> Hello World! </h1>
     <h2>Hi Hasitha </h2>
@@ -10,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
