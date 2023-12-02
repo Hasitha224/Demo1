@@ -7,7 +7,7 @@ function App() {
     <h1> Hello World! </h1>
     <h2>Hi Hasitha </h2>
     <p> dksss </p>
-    <p> ccccccccccccccccccccccccccccccwwowoww</p>
+    <p> ccccccccccccccccccccccccccccccwwowossww</p>
     </div>
   );
 }
